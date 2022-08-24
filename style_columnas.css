@@ -2,7 +2,7 @@
     display: flex;
 }
 
-.col, .col-2, .col-3{
+.col, .col-2, .col-3{ /*Se utiliza la coma para poder aplicar las propiadedes en comun para los tres*/
     margin: 10px;
     background-color: cadetblue;
     display: flex;
